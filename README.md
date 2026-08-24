@@ -50,7 +50,3 @@ Requires Node 20+. Open http://localhost:3000.
 - Type-safe forms (zod + RHF) and accessible Radix components
 - Product polish: crop-to-fit, live preview, motion
 - i18n and a clean reusable UI kit
-
----
-
-*Built by [Alisson "SkyLissh" Hernandez] — React, TypeScript, and product-driven frontend. This is a personal portfolio project.*
